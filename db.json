@@ -1,0 +1,27 @@
+[
+  {
+    "name": "name",
+    "isVisible": true,
+    "displayName": "Name"
+  },
+  {
+    "name": "email",
+    "isVisible": false,
+    "displayName": "Email"
+  },
+  {
+    "name": "address",
+    "isVisible": true,
+    "displayName": "Address"
+  },
+  {
+    "name": "company",
+    "isVisible": false,
+    "displayName": "Company"
+  },
+  {
+    "name": "username",
+    "isVisible": true,
+    "displayName": "Username"
+  }
+]
