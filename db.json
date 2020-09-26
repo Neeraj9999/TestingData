@@ -23,5 +23,10 @@
     "name": "username",
     "isVisible": true,
     "displayName": "Username"
+  },
+  {
+    "name": "area",
+    "isVisible": true,
+    "displayName": "Area"
   }
 ]
