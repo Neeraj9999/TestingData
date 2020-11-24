@@ -763,9 +763,5 @@
             "message_count": 47,
             "unseen_message_count": 0
         }
-    ],
-    "rows": 4,
-    "count": 10,
-    "next": "http://144.217.59.249:3333/api/chat/conversations?offset=4&limit=4",
-    "previous": null
+    ]
 }
