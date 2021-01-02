@@ -1,0 +1,43 @@
+[
+    {
+        "name": "visitor",
+        "isVisible": true,
+        "displayName": "Id"
+    },
+    {
+        "icon": "atr_name",
+        "name": "name",
+        "isVisible": true,
+        "displayName": "Name"
+    },
+    {
+        "icon": "atr_email",
+        "name": "email",
+        "isVisible": true,
+        "displayName": "Email"
+    },
+    {
+        "icon": "atr_location",
+        "name": "location",
+        "isVisible": true,
+        "displayName": "Location"
+    },
+    {
+        "icon": "atr_last_message",
+        "name": "message_at",
+        "isVisible": true,
+        "displayName": "last Message"
+    },
+    {
+        "icon": "atr_created_date",
+        "name": "created_at",
+        "isVisible": true,
+        "displayName": "Created Date"
+    },
+    {
+        "icon": "atr_tags",
+        "name": "tags",
+        "isVisible": true,
+        "displayName": "Tag"
+    }
+]
