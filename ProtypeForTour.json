@@ -1,0 +1,32 @@
+[
+{
+  id:0,
+  key:"zero",
+  activate:false
+},
+{
+  id:1,
+  key:"one",
+  activate:false
+},
+{
+  id:2,
+  key:"two",
+  activate:false
+},
+{
+  id:3,
+  key:"three",
+  activate:false
+},
+{
+  id:4,
+  key:"four",
+  activate:false
+},
+{
+  id:5,
+  key:"five",
+  activate:false
+}
+]
